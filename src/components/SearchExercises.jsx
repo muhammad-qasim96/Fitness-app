@@ -90,7 +90,6 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
           width: "100%",
           p: "20px",
         }}
-        overflow="auto"
       >
         <HorizontalScrollbar
           data={bodyParts}
